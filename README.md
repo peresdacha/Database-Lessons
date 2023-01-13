@@ -1,3 +1,1 @@
-# db school
-# databaseschool
-# databaseschool
+# Чудесный репозитория для изучения основ PostgreSQL
