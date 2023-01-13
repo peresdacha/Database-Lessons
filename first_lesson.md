@@ -53,8 +53,8 @@ DROP SCHEMA first_lesson;
 ```sql
 CREATE TABLE {IF NOT EXISTS} schema_name.table_name
 (
-    column1_name      data_type     is_field_required,
-    column2_name      data_type     is_field_required
+    column1_name      data_type     column_attribute,
+    column2_name      data_type     column_attribute
     ...
 );
 ```
