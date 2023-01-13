@@ -7,7 +7,7 @@
 
 Для того чтобы создать базу данных необходимо выполнить следующий скрипт.
 ```sql
-CREATE DATABASE {your_database_name};
+CREATE DATABASE your_database_name;
 ```
 В нашем случае назовем базу данных "study".
 ```sql
